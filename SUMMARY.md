@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bylaws](README.md)
+* [DAO Guidelines](README.md)
 * [1.0: Governance](1.0-governance/README.md)
   * [1.1 Multisig Members](1.0-governance/1.1-multisig-members.md)
   * [1.2 Proposal Process](1.0-governance/1.2-proposal-process/README.md)

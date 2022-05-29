@@ -40,4 +40,4 @@
       * [3.1.8.2 Community Champions](3.0-operations/3.1-org-chart/3.1.8-samurai/3.1.8.2-community-champions.md)
       * [3.1.8.3 Community Support](3.0-operations/3.1-org-chart/3.1.8-samurai/3.1.8.3-community-support.md)
   * [3.2 Compensation Committee](3.0-operations/3.2-compensation-committee/README.md)
-    * [3.2.1 Member](3.0-operations/3.2-compensation-committee/3.2.1-member.md)
+    * [3.2.1 Members](3.0-operations/3.2-compensation-committee/3.2.1-members.md)

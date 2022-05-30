@@ -24,7 +24,7 @@
     * [2.3.1 Size](2.0-community-oversight/2.3-size-election-and-removal/2.3.1-size.md)
     * [2.3.2 Term Length & Limits](2.0-community-oversight/2.3-size-election-and-removal/2.3.2-term-length-and-limits.md)
     * [2.3.3 Special Elections](2.0-community-oversight/2.3-size-election-and-removal/2.3.3-special-elections.md)
-  * [2.4 Independence & Conflict Resolution](2.0-community-oversight/2.4-independence-and-conflict-resolution.md)
+  * [2.4 Independence](2.0-community-oversight/2.4-independence.md)
   * [2.5 Compensation](2.0-community-oversight/2.5-compensation.md)
 * [3.0 Operations](3.0-operations/README.md)
   * [3.1 Org Chart](3.0-operations/3.1-org-chart/README.md)

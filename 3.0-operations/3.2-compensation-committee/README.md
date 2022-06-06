@@ -1,6 +1,6 @@
 # 3.2 Compensation Committee
 
-The Compensation Committee’s primary purpose will be to advise the COC on appropriate industry compensation packages and, with the COC’s approval, negotiate said packages with new hires. The Compensation Committee will require COC signoff to enact any employment or compensation items.
+The Compensation Committee was created in May 2022 under [Sushi 2.0](https://snapshot.org/#/sushigov.eth/proposal/QmVfGe7ZqUS4HZhpxssPXPKJF8sCctcEsN1Sybo3p4F4zb). It’s primary purpose will be to advise the COC on appropriate industry compensation packages and, with the COC’s approval, negotiate said packages with new hires. The Compensation Committee will require COC signoff to enact any employment or compensation items.
 
 The Compensation Committee will have several main jobs:
 

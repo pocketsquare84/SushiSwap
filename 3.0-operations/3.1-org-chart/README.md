@@ -1,2 +1,2 @@
-# 3.1 Org Chart \[Pending]
+# 3.1 Org Chart
 

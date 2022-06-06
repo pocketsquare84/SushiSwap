@@ -2,7 +2,9 @@
 
 * [DAO Guidelines](README.md)
 * [1.0: Governance](1.0-governance/README.md)
-  * [1.1 Multisig Members](1.0-governance/1.1-multisig-members.md)
+  * [1.1 Multisig Members](1.0-governance/1.1-multisig-members/README.md)
+    * [1.1.1 Ops Multisig](1.0-governance/1.1-multisig-members/1.1.1-ops-multisig.md)
+    * [1.1.2 Treasury Multisig](1.0-governance/1.1-multisig-members/1.1.2-treasury-multisig.md)
   * [1.2 Proposal Process](1.0-governance/1.2-proposal-process/README.md)
     * [1.2.1 Temperature Check](1.0-governance/1.2-proposal-process/1.2.1-temperature-check.md)
     * [1.2.2 Internal Review](1.0-governance/1.2-proposal-process/1.2.2-internal-review.md)

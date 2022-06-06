@@ -18,4 +18,3 @@ Compensation committee will use a simple unanimous voting system for all committ
 * For distribution regarding price oriented incentive targets defined by 30 day TWAP price targets.
 * For validation of performance reviews.
 * Similarly, a Compensation committee will also support a unanimous voting system in the event a contributor relationship requires formal termination & offboarding.
-* **Management-level offboarding will require Community Oversight Committee approval.**

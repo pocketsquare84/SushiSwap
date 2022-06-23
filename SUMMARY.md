@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DAO Guidelines \[Pending\]](README.md)
-* [1.0: Governance](1.0-governance/README.md)
+* [1.0 Governance](1.0-governance/README.md)
   * [1.1 Multisig Members](1.0-governance/1.1-multisig-members/README.md)
     * [1.1.1 Ops Multisig](1.0-governance/1.1-multisig-members/1.1.1-ops-multisig.md)
     * [1.1.2 Treasury Multisig \[Needs Confirm\]](1.0-governance/1.1-multisig-members/1.1.2-treasury-multisig.md)
